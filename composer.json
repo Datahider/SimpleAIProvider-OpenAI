@@ -3,7 +3,7 @@
     "description": "OpenAI provider for Simple AI Agent",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "drweb",
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "losthost/simple-ai-core": "^1.0"
+        "losthost/simple-ai-core": "dev-master"
     },
     "autoload": {
         "psr-4": {
